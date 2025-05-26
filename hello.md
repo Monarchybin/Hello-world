@@ -1,5 +1,5 @@
 ﻿# hello git
-인프런
+인프런 - Git과 GitHub 시작하기
 
 ## git 명령어 요약
 
